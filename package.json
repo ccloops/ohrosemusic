@@ -1,7 +1,7 @@
 {
   "name": "ohrosemusic",
   "version": "1.0.0",
-  "description": "My dazzling Nuxt.js project",
+  "description": "Oh, Rose Music",
   "author": "Catherine Looper",
   "private": true,
   "scripts": {
@@ -12,7 +12,10 @@
     "test": "jest"
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "@types/node-sass": "^4.11.0",
+    "node-sass": "^4.12.0",
+    "nuxt": "^2.0.0",
+    "sass-loader": "^8.0.0"
   },
   "devDependencies": {
     "@vue/test-utils": "^1.0.0-beta.27",
